@@ -23,3 +23,5 @@ Instalando Styled (muda a forma que escrevemos css)
 Lidando com Icons
 >> yarn add react-icons
 
+Lidando com Axios req a Api
+>> yarn add axios
