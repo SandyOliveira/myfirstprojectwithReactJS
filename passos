@@ -5,3 +5,19 @@ Adicionar eslint
 >> npm install eslint-plugin-react@latest --save-dev
 >>yarn eslint --init
 >> yarn
+
+Instalando Prettier
+>> yarn add prettier eslint-config-prettier eslint-plugin-prettier babel-eslint -D
+/*
+*Fira code
+*entre em settings.json do Code e acrescente:
+ *   "editor.fontFamily": "Fira Code",
+  *  "editor.fontSize": 12,
+   * "editor.fontLigatures": true
+*/
+
+Instalando Styled (muda a forma que escrevemos css)
+>>yarn add styled-components
+
+
+
