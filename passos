@@ -20,4 +20,6 @@ Instalando Styled (muda a forma que escrevemos css)
 >>yarn add styled-components
 
 
+Lidando com Icons
+>> yarn add react-icons
 
