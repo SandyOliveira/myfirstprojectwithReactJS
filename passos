@@ -1,0 +1,7 @@
+criar o projeto com as configuração ja instaladas antes
+>>yarn create react-app myfirstprojectreactjs
+Adicionar eslint
+>> yarn add eslint prettier eslint-config-prettier eslint-plugin-prettier babel-eslint -D
+>> npm install eslint-plugin-react@latest --save-dev
+>>yarn eslint --init
+>> yarn
