@@ -25,3 +25,6 @@ Lidando com Icons
 
 Lidando com Axios req a Api
 >> yarn add axios
+
+Instalando propTypes
+>> yarn add prop-types
